@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.qa.testcases.LoginPageTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 1.085 sec <<< FAILURE!
+setUp(com.qa.testcases.LoginPageTest)  Time elapsed: 0.812 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.test1.qa.base.TestBase.initialization(TestBase.java:44)
+	at com.qa.testcases.LoginPageTest.setUp(LoginPageTest.java:21)
+

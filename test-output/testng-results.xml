@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="308115" started-at="2018-05-31T19:00:45Z" finished-at="2018-05-31T19:05:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="308115" started-at="2018-05-31T19:00:45Z" finished-at="2018-05-31T19:05:53Z">
+      <class name="com.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="setUp" is-config="true" duration-ms="22129" started-at="2018-06-01T00:30:46Z" finished-at="2018-06-01T00:31:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login1(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="login1" duration-ms="60228" started-at="2018-06-01T00:31:08Z" data-provider="Userdata" finished-at="2018-06-01T00:32:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nitingodan@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kareena@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-06-01T00:32:09Z" finished-at="2018-06-01T00:32:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="setUp" is-config="true" duration-ms="17353" started-at="2018-06-01T00:32:09Z" finished-at="2018-06-01T00:32:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login1(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="login1" duration-ms="58851" started-at="2018-06-01T00:32:26Z" data-provider="Userdata" finished-at="2018-06-01T00:33:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amitparekh971@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kareena@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-06-01T00:33:25Z" finished-at="2018-06-01T00:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="setUp" is-config="true" duration-ms="16709" started-at="2018-06-01T00:33:25Z" finished-at="2018-06-01T00:33:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login1(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="login1" duration-ms="3810" started-at="2018-06-01T00:33:41Z" data-provider="Userdata" finished-at="2018-06-01T00:33:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jatinpaal88@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kareena@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-06-01T00:33:45Z" finished-at="2018-06-01T00:33:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="setUp" is-config="true" duration-ms="20008" started-at="2018-06-01T00:33:45Z" finished-at="2018-06-01T00:34:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login1(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="login1" duration-ms="5221" started-at="2018-06-01T00:34:05Z" data-provider="Userdata" finished-at="2018-06-01T00:34:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nakulpania@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kareena@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-06-01T00:34:10Z" finished-at="2018-06-01T00:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="setUp" is-config="true" duration-ms="17779" started-at="2018-06-01T00:34:10Z" finished-at="2018-06-01T00:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login1(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="login1" duration-ms="33897" started-at="2018-06-01T00:34:28Z" data-provider="Userdata" finished-at="2018-06-01T00:35:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachinsen511@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kareena@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-06-01T00:35:02Z" finished-at="2018-06-01T00:35:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="setUp" is-config="true" duration-ms="20731" started-at="2018-06-01T00:35:02Z" finished-at="2018-06-01T00:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login1(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="login1" duration-ms="5497" started-at="2018-06-01T00:35:23Z" data-provider="Userdata" finished-at="2018-06-01T00:35:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ravijoel85@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kareena@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-06-01T00:35:28Z" finished-at="2018-06-01T00:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="setUp" is-config="true" duration-ms="21040" started-at="2018-06-01T00:35:28Z" finished-at="2018-06-01T00:35:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login1(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="login1" duration-ms="3957" started-at="2018-06-01T00:35:49Z" data-provider="Userdata" finished-at="2018-06-01T00:35:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testanda1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kareena@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@598067a5]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-06-01T00:35:53Z" finished-at="2018-06-01T00:35:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
